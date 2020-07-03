@@ -9,3 +9,6 @@ In the zip, there is also a screenshot from the last version of the dashboard, a
 The code is all written by myself, but following the official bokeh-documentation. Therefore, the code will at some parts have reliance to the code snippets
 that are presented on bokehs homepage.
 The __init__.py is just to indicate that python can choose local modules from this folder. 
+
+
+Hire us: [Software Entwickler in Zürich](https://polygon-software.ch)!
